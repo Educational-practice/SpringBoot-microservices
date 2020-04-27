@@ -13,7 +13,7 @@ This project contains several services:
 - Google Colab 
   - Everything was configured remotely on linux through SSH
   - Ports were exposed using SSH Reverse tunneling
-  - You can check the [python package](https://pypi.org/project/colab-ssh/) I developed to accomplish this.
+  - Intrested? You can check the [python package](https://pypi.org/project/colab-ssh/) I developed to accomplish this.
 
 ## Screenshot of the service on Eureka
 ![Screenshot](docs/screenshot.png)
