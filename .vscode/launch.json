@@ -13,6 +13,16 @@
 			"vmArgs": [
 				"-Dserver.port=3000"
 			]
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-ProductServiceApplication<product-service> 2",
+			"request": "launch",
+			"mainClass": "tn.insat.tpmicro.productservice.ProductServiceApplication",
+			"projectName": "product-service",
+			"vmArgs": [
+				"-Dserver.port=3001"
+			]
 		}
 	]
 }
