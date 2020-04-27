@@ -8,6 +8,12 @@ This project contains several services:
 3. Proxy Service: Responsible for the routing of requests and load balancing ([Github Repository](https://github.com/Educational-practice/Springboot-microservices-proxy))
 4. Discovery Service: A global registry where are all microservices are registered, enabling easy discovery and decoupling ([Github Repository](https://github.com/Educational-practice/SpringBoot-microservices-discovery))
 
+## What I used
+- Visual Studio Code (With Java Pack extension)
+- Google Colab 
+  - Everything was configured on linux through SSH
+  - Ports were exposed using SSH Reverse tunneling
+
 ## Screenshot of the service on Eureka
 ![Screenshot](docs/screenshot.png)
 
