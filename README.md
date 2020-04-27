@@ -3,10 +3,10 @@ This academic project was made in the context of a practical work about Software
 
 ## Services
 This project contains several services:
-1. Product Service: Business service
-2. Config Service: The single source of configuration for all microservices
-3. Proxy Service: Responsible for the routing of requests and load balancing
-4. Discovery Service: A global registry where are all microservices are registered, enabling easy discovery and decoupling.
+1. Product Service: A service containing business logic.
+2. Config Service: The single source of configuration for all microservices ([Github Repository](https://github.com/Educational-practice/Springboot-microservices-config))
+3. Proxy Service: Responsible for the routing of requests and load balancing ([Github Repository](https://github.com/Educational-practice/Springboot-microservices-proxy))
+4. Discovery Service: A global registry where are all microservices are registered, enabling easy discovery and decoupling. ([Github Repository](https://github.com/Educational-practice/SpringBoot-microservices-discovery))
 
 ## Screenshot of the service on Eureka
 ![Screenshot](docs/screenshot.png)
