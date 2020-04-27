@@ -11,8 +11,9 @@ This project contains several services:
 ## What I used
 - Visual Studio Code (With Java Pack extension and Remote SSH Development)
 - Google Colab 
-  - Everything was configured on linux through SSH
+  - Everything was configured remotely on linux through SSH
   - Ports were exposed using SSH Reverse tunneling
+  - You can check the [python package](https://pypi.org/project/colab-ssh/) I developed to accomplish this.
 
 ## Screenshot of the service on Eureka
 ![Screenshot](docs/screenshot.png)
